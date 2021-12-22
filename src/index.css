@@ -3,3 +3,14 @@
     background-color: #21232A;
     font-family: Helvetica, Arial, sans-serif;
 }*/
+
+.center-container{
+	background-color: #21232A;
+	color:white;
+}
+
+.login-btn{
+	display: flex;
+  justify-content: center;
+  height: 100%;
+}
