@@ -1,8 +1,12 @@
-/* body {
+body {
     color: white;
-    background-color: #21232A;
+    background-color: #192229;
     font-family: Helvetica, Arial, sans-serif;
-}*/
+}
+
+.card{
+	background-color: #192229;
+}
 
 .center-container{
 	background-color: #21232A;
